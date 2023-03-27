@@ -1,0 +1,16 @@
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab01\Lab01\bin\Debug\Lab01.exe.config
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab01\Lab01\bin\Debug\Lab01.exe
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab01\Lab01\bin\Debug\Lab01.pdb
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab01\Lab01\obj\Debug\Lab01.csproj.AssemblyReference.cache
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab01\Lab01\obj\Debug\Lab01.csproj.SuggestedBindingRedirects.cache
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab01\Lab01\obj\Debug\Lab01.Form1.resources
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab01\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab01\Lab01\obj\Debug\Lab01.Sum.resources
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab01\Lab01\obj\Debug\Lab01.csproj.GenerateResource.cache
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab01\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab01\Lab01\obj\Debug\Lab01.exe
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab01\Lab01\obj\Debug\Lab01.pdb
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab01\Lab01\obj\Debug\Lab01.MaxMinNum.resources
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab01\Lab01\obj\Debug\Lab01.BaiTH2.resources
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab01\Lab01\obj\Debug\Lab01.BaiTH4.resources
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab01\Lab01\obj\Debug\Lab01.BaiTH5.resources
