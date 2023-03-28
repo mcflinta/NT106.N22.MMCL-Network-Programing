@@ -1,0 +1,12 @@
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Client.resources
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Server.resources
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
