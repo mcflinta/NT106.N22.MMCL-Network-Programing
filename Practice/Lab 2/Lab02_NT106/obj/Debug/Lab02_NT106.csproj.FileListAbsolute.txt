@@ -1,0 +1,31 @@
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab02_NT106\Lab02_NT106\bin\Debug\Lab02_NT106.exe.config
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab02_NT106\Lab02_NT106\bin\Debug\Lab02_NT106.exe
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab02_NT106\Lab02_NT106\bin\Debug\Lab02_NT106.pdb
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab02_NT106\Lab02_NT106\obj\Debug\Lab02_NT106.csproj.AssemblyReference.cache
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab02_NT106\Lab02_NT106\obj\Debug\Lab02_NT106.csproj.SuggestedBindingRedirects.cache
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab02_NT106\Lab02_NT106\obj\Debug\Lab02_NT106.Bai1.resources
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab02_NT106\Lab02_NT106\obj\Debug\Lab02_NT106.Lab02.resources
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab02_NT106\Lab02_NT106\obj\Debug\Lab02_NT106.Properties.Resources.resources
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab02_NT106\Lab02_NT106\obj\Debug\Lab02_NT106.csproj.GenerateResource.cache
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab02_NT106\Lab02_NT106\obj\Debug\Lab02_NT106.csproj.CoreCompileInputs.cache
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab02_NT106\Lab02_NT106\obj\Debug\Lab02_NT106.exe
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab02_NT106\Lab02_NT106\obj\Debug\Lab02_NT106.pdb
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab02_NT106\Lab02_NT106\obj\Debug\Lab02_NT106.Bai2.resources
+F:\Lap_trinh\C#\Lập trình mạng cơ bản\Tuần 2\Lab02_NT106\Lab02_NT106\obj\Debug\Lab02_NT106.Bai3.resources
+F:\NT106\Lab02_NT106\Lab02_NT106\bin\Debug\Lab02_NT106.exe.config
+F:\NT106\Lab02_NT106\Lab02_NT106\bin\Debug\Lab02_NT106.exe
+F:\NT106\Lab02_NT106\Lab02_NT106\bin\Debug\Lab02_NT106.pdb
+F:\NT106\Lab02_NT106\Lab02_NT106\obj\Debug\Lab02_NT106.csproj.AssemblyReference.cache
+F:\NT106\Lab02_NT106\Lab02_NT106\obj\Debug\Lab02_NT106.csproj.SuggestedBindingRedirects.cache
+F:\NT106\Lab02_NT106\Lab02_NT106\obj\Debug\Lab02_NT106.Bai1.resources
+F:\NT106\Lab02_NT106\Lab02_NT106\obj\Debug\Lab02_NT106.Bai2.resources
+F:\NT106\Lab02_NT106\Lab02_NT106\obj\Debug\Lab02_NT106.Bai3.resources
+F:\NT106\Lab02_NT106\Lab02_NT106\obj\Debug\Lab02_NT106.Lab02.resources
+F:\NT106\Lab02_NT106\Lab02_NT106\obj\Debug\Lab02_NT106.Properties.Resources.resources
+F:\NT106\Lab02_NT106\Lab02_NT106\obj\Debug\Lab02_NT106.csproj.GenerateResource.cache
+F:\NT106\Lab02_NT106\Lab02_NT106\obj\Debug\Lab02_NT106.csproj.CoreCompileInputs.cache
+F:\NT106\Lab02_NT106\Lab02_NT106\obj\Debug\Lab02_NT106.exe
+F:\NT106\Lab02_NT106\Lab02_NT106\obj\Debug\Lab02_NT106.pdb
+F:\NT106\Lab02_NT106\Lab02_NT106\bin\Debug\NCalc.dll
+F:\NT106\Lab02_NT106\Lab02_NT106\obj\Debug\Lab02_NT106.csproj.CopyComplete
+F:\NT106\Lab02_NT106\Lab02_NT106\obj\Debug\Lab02_NT106.Bai4.resources
