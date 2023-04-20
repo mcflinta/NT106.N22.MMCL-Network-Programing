@@ -45,5 +45,11 @@ namespace Lab02_NT106
             Form myForm = new Bai4();
             myForm.ShowDialog();
         }
+
+        private void btnBai5_Click(object sender, EventArgs e)
+        {
+            Form myForm = new Bai5();
+            myForm.ShowDialog();
+        }
     }
 }

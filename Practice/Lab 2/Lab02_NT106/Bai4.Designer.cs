@@ -44,32 +44,33 @@
             this.label5 = new System.Windows.Forms.Label();
             this.tbAverageWrite = new System.Windows.Forms.TextBox();
             this.btnAdd = new System.Windows.Forms.Button();
-            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
+            this.rtbContent = new System.Windows.Forms.RichTextBox();
             this.btnBack = new System.Windows.Forms.Button();
             this.label6 = new System.Windows.Forms.Label();
-            this.tbAverage = new System.Windows.Forms.TextBox();
+            this.tbAverageRead = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
-            this.tbCourse3 = new System.Windows.Forms.TextBox();
-            this.tbCourse2 = new System.Windows.Forms.TextBox();
-            this.tbCourse1 = new System.Windows.Forms.TextBox();
+            this.tbCourse3Read = new System.Windows.Forms.TextBox();
+            this.tbCourse2Read = new System.Windows.Forms.TextBox();
+            this.tbCourse1Read = new System.Windows.Forms.TextBox();
             this.tbPhoneRead = new System.Windows.Forms.TextBox();
             this.tbIDRead = new System.Windows.Forms.TextBox();
             this.tbNameRead = new System.Windows.Forms.TextBox();
             this.btnRead = new System.Windows.Forms.Button();
             this.btnNext = new System.Windows.Forms.Button();
             this.lbCount = new System.Windows.Forms.Label();
+            this.btnSave = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnWrite
             // 
-            this.btnWrite.Location = new System.Drawing.Point(12, 12);
+            this.btnWrite.Location = new System.Drawing.Point(12, 15);
             this.btnWrite.Name = "btnWrite";
-            this.btnWrite.Size = new System.Drawing.Size(177, 48);
+            this.btnWrite.Size = new System.Drawing.Size(177, 45);
             this.btnWrite.TabIndex = 4;
             this.btnWrite.Text = "Write to a File";
             this.btnWrite.UseVisualStyleBackColor = true;
@@ -79,7 +80,6 @@
             // 
             this.tbCourse3Write.Location = new System.Drawing.Point(12, 244);
             this.tbCourse3Write.Name = "tbCourse3Write";
-            this.tbCourse3Write.ReadOnly = true;
             this.tbCourse3Write.Size = new System.Drawing.Size(172, 20);
             this.tbCourse3Write.TabIndex = 24;
             // 
@@ -87,7 +87,6 @@
             // 
             this.tbCourse2Write.Location = new System.Drawing.Point(12, 213);
             this.tbCourse2Write.Name = "tbCourse2Write";
-            this.tbCourse2Write.ReadOnly = true;
             this.tbCourse2Write.Size = new System.Drawing.Size(172, 20);
             this.tbCourse2Write.TabIndex = 22;
             // 
@@ -95,7 +94,6 @@
             // 
             this.tbCourse1Write.Location = new System.Drawing.Point(12, 182);
             this.tbCourse1Write.Name = "tbCourse1Write";
-            this.tbCourse1Write.ReadOnly = true;
             this.tbCourse1Write.Size = new System.Drawing.Size(172, 20);
             this.tbCourse1Write.TabIndex = 20;
             // 
@@ -103,7 +101,6 @@
             // 
             this.tbPhoneWrite.Location = new System.Drawing.Point(12, 151);
             this.tbPhoneWrite.Name = "tbPhoneWrite";
-            this.tbPhoneWrite.ReadOnly = true;
             this.tbPhoneWrite.Size = new System.Drawing.Size(172, 20);
             this.tbPhoneWrite.TabIndex = 18;
             // 
@@ -111,7 +108,6 @@
             // 
             this.tbIDWrite.Location = new System.Drawing.Point(12, 120);
             this.tbIDWrite.Name = "tbIDWrite";
-            this.tbIDWrite.ReadOnly = true;
             this.tbIDWrite.Size = new System.Drawing.Size(172, 20);
             this.tbIDWrite.TabIndex = 16;
             // 
@@ -119,7 +115,6 @@
             // 
             this.tbNameWrite.Location = new System.Drawing.Point(12, 84);
             this.tbNameWrite.Name = "tbNameWrite";
-            this.tbNameWrite.ReadOnly = true;
             this.tbNameWrite.Size = new System.Drawing.Size(172, 20);
             this.tbNameWrite.TabIndex = 14;
             // 
@@ -198,19 +193,20 @@
             // 
             this.btnAdd.Location = new System.Drawing.Point(7, 314);
             this.btnAdd.Name = "btnAdd";
-            this.btnAdd.Size = new System.Drawing.Size(177, 48);
+            this.btnAdd.Size = new System.Drawing.Size(76, 39);
             this.btnAdd.TabIndex = 33;
             this.btnAdd.Text = "Add";
             this.btnAdd.UseVisualStyleBackColor = true;
             this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
-            // richTextBox1
+            // rtbContent
             // 
-            this.richTextBox1.Location = new System.Drawing.Point(271, 22);
-            this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(236, 340);
-            this.richTextBox1.TabIndex = 34;
-            this.richTextBox1.Text = "";
+            this.rtbContent.Location = new System.Drawing.Point(271, 15);
+            this.rtbContent.Name = "rtbContent";
+            this.rtbContent.ReadOnly = true;
+            this.rtbContent.Size = new System.Drawing.Size(302, 347);
+            this.rtbContent.TabIndex = 34;
+            this.rtbContent.Text = "";
             // 
             // btnBack
             // 
@@ -220,6 +216,7 @@
             this.btnBack.TabIndex = 50;
             this.btnBack.Text = "Back";
             this.btnBack.UseVisualStyleBackColor = true;
+            this.btnBack.Click += new System.EventHandler(this.btnBack_Click);
             // 
             // label6
             // 
@@ -230,13 +227,13 @@
             this.label6.TabIndex = 49;
             this.label6.Text = "Average";
             // 
-            // tbAverage
+            // tbAverageRead
             // 
-            this.tbAverage.Location = new System.Drawing.Point(596, 273);
-            this.tbAverage.Name = "tbAverage";
-            this.tbAverage.ReadOnly = true;
-            this.tbAverage.Size = new System.Drawing.Size(172, 20);
-            this.tbAverage.TabIndex = 48;
+            this.tbAverageRead.Location = new System.Drawing.Point(596, 273);
+            this.tbAverageRead.Name = "tbAverageRead";
+            this.tbAverageRead.ReadOnly = true;
+            this.tbAverageRead.Size = new System.Drawing.Size(172, 20);
+            this.tbAverageRead.TabIndex = 48;
             // 
             // label7
             // 
@@ -292,29 +289,29 @@
             this.label12.TabIndex = 42;
             this.label12.Text = "Name";
             // 
-            // tbCourse3
+            // tbCourse3Read
             // 
-            this.tbCourse3.Location = new System.Drawing.Point(596, 247);
-            this.tbCourse3.Name = "tbCourse3";
-            this.tbCourse3.ReadOnly = true;
-            this.tbCourse3.Size = new System.Drawing.Size(172, 20);
-            this.tbCourse3.TabIndex = 41;
+            this.tbCourse3Read.Location = new System.Drawing.Point(596, 247);
+            this.tbCourse3Read.Name = "tbCourse3Read";
+            this.tbCourse3Read.ReadOnly = true;
+            this.tbCourse3Read.Size = new System.Drawing.Size(172, 20);
+            this.tbCourse3Read.TabIndex = 41;
             // 
-            // tbCourse2
+            // tbCourse2Read
             // 
-            this.tbCourse2.Location = new System.Drawing.Point(596, 216);
-            this.tbCourse2.Name = "tbCourse2";
-            this.tbCourse2.ReadOnly = true;
-            this.tbCourse2.Size = new System.Drawing.Size(172, 20);
-            this.tbCourse2.TabIndex = 40;
+            this.tbCourse2Read.Location = new System.Drawing.Point(596, 216);
+            this.tbCourse2Read.Name = "tbCourse2Read";
+            this.tbCourse2Read.ReadOnly = true;
+            this.tbCourse2Read.Size = new System.Drawing.Size(172, 20);
+            this.tbCourse2Read.TabIndex = 40;
             // 
-            // tbCourse1
+            // tbCourse1Read
             // 
-            this.tbCourse1.Location = new System.Drawing.Point(596, 185);
-            this.tbCourse1.Name = "tbCourse1";
-            this.tbCourse1.ReadOnly = true;
-            this.tbCourse1.Size = new System.Drawing.Size(172, 20);
-            this.tbCourse1.TabIndex = 39;
+            this.tbCourse1Read.Location = new System.Drawing.Point(596, 185);
+            this.tbCourse1Read.Name = "tbCourse1Read";
+            this.tbCourse1Read.ReadOnly = true;
+            this.tbCourse1Read.Size = new System.Drawing.Size(172, 20);
+            this.tbCourse1Read.TabIndex = 39;
             // 
             // tbPhoneRead
             // 
@@ -358,6 +355,7 @@
             this.btnNext.TabIndex = 51;
             this.btnNext.Text = "Next";
             this.btnNext.UseVisualStyleBackColor = true;
+            this.btnNext.Click += new System.EventHandler(this.btnNext_Click);
             // 
             // lbCount
             // 
@@ -368,30 +366,41 @@
             this.lbCount.TabIndex = 52;
             this.lbCount.Text = "1";
             // 
+            // btnSave
+            // 
+            this.btnSave.Location = new System.Drawing.Point(113, 314);
+            this.btnSave.Name = "btnSave";
+            this.btnSave.Size = new System.Drawing.Size(76, 39);
+            this.btnSave.TabIndex = 53;
+            this.btnSave.Text = "Save";
+            this.btnSave.UseVisualStyleBackColor = true;
+            this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
+            // 
             // Bai4
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(869, 450);
+            this.Controls.Add(this.btnSave);
             this.Controls.Add(this.lbCount);
             this.Controls.Add(this.btnNext);
             this.Controls.Add(this.btnBack);
             this.Controls.Add(this.label6);
-            this.Controls.Add(this.tbAverage);
+            this.Controls.Add(this.tbAverageRead);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.label10);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.label12);
-            this.Controls.Add(this.tbCourse3);
-            this.Controls.Add(this.tbCourse2);
-            this.Controls.Add(this.tbCourse1);
+            this.Controls.Add(this.tbCourse3Read);
+            this.Controls.Add(this.tbCourse2Read);
+            this.Controls.Add(this.tbCourse1Read);
             this.Controls.Add(this.tbPhoneRead);
             this.Controls.Add(this.tbIDRead);
             this.Controls.Add(this.tbNameRead);
             this.Controls.Add(this.btnRead);
-            this.Controls.Add(this.richTextBox1);
+            this.Controls.Add(this.rtbContent);
             this.Controls.Add(this.btnAdd);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.tbAverageWrite);
@@ -434,24 +443,25 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.TextBox tbAverageWrite;
         private System.Windows.Forms.Button btnAdd;
-        private System.Windows.Forms.RichTextBox richTextBox1;
+        private System.Windows.Forms.RichTextBox rtbContent;
         private System.Windows.Forms.Button btnBack;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.TextBox tbAverage;
+        private System.Windows.Forms.TextBox tbAverageRead;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label12;
-        private System.Windows.Forms.TextBox tbCourse3;
-        private System.Windows.Forms.TextBox tbCourse2;
-        private System.Windows.Forms.TextBox tbCourse1;
+        private System.Windows.Forms.TextBox tbCourse3Read;
+        private System.Windows.Forms.TextBox tbCourse2Read;
+        private System.Windows.Forms.TextBox tbCourse1Read;
         private System.Windows.Forms.TextBox tbPhoneRead;
         private System.Windows.Forms.TextBox tbIDRead;
         private System.Windows.Forms.TextBox tbNameRead;
         private System.Windows.Forms.Button btnRead;
         private System.Windows.Forms.Button btnNext;
         private System.Windows.Forms.Label lbCount;
+        private System.Windows.Forms.Button btnSave;
     }
 }
