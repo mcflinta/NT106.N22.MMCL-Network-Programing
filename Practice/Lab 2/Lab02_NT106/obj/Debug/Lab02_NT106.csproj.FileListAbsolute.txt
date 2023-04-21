@@ -46,3 +46,17 @@ F:\NT106\NT106.N22.MMCL-Network-Programing\Practice\Lab 2\Lab02_NT106\obj\Debug\
 F:\NT106\NT106.N22.MMCL-Network-Programing\Practice\Lab 2\Lab02_NT106\obj\Debug\Lab02_NT106.csproj.CopyComplete
 F:\NT106\NT106.N22.MMCL-Network-Programing\Practice\Lab 2\Lab02_NT106\obj\Debug\Lab02_NT106.exe
 F:\NT106\NT106.N22.MMCL-Network-Programing\Practice\Lab 2\Lab02_NT106\obj\Debug\Lab02_NT106.pdb
+F:\NT106\NT106.N22.MMCL-Network-Programing\Practice\Lab 2\Lab02_NT106\obj\Debug\Lab02_NT106.Bai5.resources
+F:\NT106\NT106.N22.MMCL-Network-Programing\Practice\Lab 2\Lab02_NT106\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\NT106\NT106.N22.MMCL-Network-Programing\Practice\Lab 2\Lab02_NT106\bin\Debug\System.Buffers.dll
+F:\NT106\NT106.N22.MMCL-Network-Programing\Practice\Lab 2\Lab02_NT106\bin\Debug\System.Memory.dll
+F:\NT106\NT106.N22.MMCL-Network-Programing\Practice\Lab 2\Lab02_NT106\bin\Debug\System.Numerics.Vectors.dll
+F:\NT106\NT106.N22.MMCL-Network-Programing\Practice\Lab 2\Lab02_NT106\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\NT106\NT106.N22.MMCL-Network-Programing\Practice\Lab 2\Lab02_NT106\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\NT106\NT106.N22.MMCL-Network-Programing\Practice\Lab 2\Lab02_NT106\bin\Debug\ICSharpCode.SharpZipLib.pdb
+F:\NT106\NT106.N22.MMCL-Network-Programing\Practice\Lab 2\Lab02_NT106\bin\Debug\ICSharpCode.SharpZipLib.xml
+F:\NT106\NT106.N22.MMCL-Network-Programing\Practice\Lab 2\Lab02_NT106\bin\Debug\System.Buffers.xml
+F:\NT106\NT106.N22.MMCL-Network-Programing\Practice\Lab 2\Lab02_NT106\bin\Debug\System.Memory.xml
+F:\NT106\NT106.N22.MMCL-Network-Programing\Practice\Lab 2\Lab02_NT106\bin\Debug\System.Numerics.Vectors.xml
+F:\NT106\NT106.N22.MMCL-Network-Programing\Practice\Lab 2\Lab02_NT106\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\NT106\NT106.N22.MMCL-Network-Programing\Practice\Lab 2\Lab02_NT106\bin\Debug\System.Threading.Tasks.Extensions.xml
